@@ -1,5 +1,11 @@
+from src.GenerateCharts import * 
+
 def main():
-    print("Hello from sotmcol2026!")
+
+    graph("./Data/LDU.csv", "Portal El Dorado - Universidades")
+    graph("./Data/SM80.csv", "San Mateo - Portal 80")
+
+    plt.show()
 
 
 if __name__ == "__main__":
