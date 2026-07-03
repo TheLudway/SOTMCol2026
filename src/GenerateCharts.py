@@ -40,4 +40,4 @@ def graph(dataFile: str, title: str):
         plt.axhspan(150, 250, facecolor="purple",  alpha=0.2, label="Muy dañina a la salud")
     
     plt.legend(fontsize="x-large")
-    plt.savefig(f"./img/{title}.svg", format="svg")
+    plt.savefig(f"./img/{title}.jpg", format="jpg")
