@@ -1,23 +1,21 @@
-
 1. Presentación.
 2. Contexto.
-   - IBOCA.
-   - Enfermedades respiratorias en Bogotá.
-   - ¿Cómo respira Bogotá en Transmilenio? (foto de nosotros en transmi con tapabocas)
+   - IBOCA. Chofo
+   - Enfermedades respiratorias en Bogotá. Chofo
+   - ¿Cómo respira Bogotá en Transmilenio? (foto de nosotros en transmi con tapabocas) Lud
 3. Herramientas.
-   - CanAirIo.
-   - QuickOSM.
+   - CanAirIo. Lud
+   - QuickOSM. Chofo
 4. Metodología.
-   - Trayectos Transmi.
-   - Monitoreo.
-   - QGIS y Python.
+   - Trayectos Transmi. Lud
+   - Monitoreo. Chofo
+   - QGIS (Chofo) y Python. (Lud)
 6. Resultados y análisis.
-   - Mostrar mapitas.
-   - Gráficas.
-   - Correlaciones con comportamientos.
-7. Conclusiones.
+   - Mostrar mapitas. (Chofo)
+   - Gráficas. (Lud)
+   - Hallazgos  (Both)
+7. Conclusiones. (Both)
    - Usar tapabocas
    - Estar sentado es más perjudicial que estar de pie.
    - Influencia de cantidad de paradas en la ruta.
    - Importancia de los datos abiertos y OSM. (invitar al taller del sábado).
-
